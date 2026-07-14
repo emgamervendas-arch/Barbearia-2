@@ -2,11 +2,11 @@
 
 Landing Page moderna para uma barbearia, desenvolvida com foco em design elegante, responsividade e experiência do usuário.
 
-![Preview](./preview.png)
-![Preview 2](./preview2.png)
-![Preview 3](./preview3.png)
-![Preview 4](./preview4.png)
-![Preview 5](./preview5.png)
+![Preview](./Preview.png)
+![Preview 2](./Preview2.png)
+![Preview 3](./Preview3.png)
+![Preview 4](./Preview4.png)
+![Preview 5](./Preview5.png)
 
 ## 📖 Sobre o projeto
 
