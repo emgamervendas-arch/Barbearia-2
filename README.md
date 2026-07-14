@@ -2,10 +2,6 @@
 
 Landing Page moderna para uma barbearia, desenvolvida com foco em design elegante, responsividade e experiência do usuário.
 
-# 💈 Barbearia Original
-
-Landing Page moderna para uma barbearia, desenvolvida com foco em design elegante, responsividade e experiência do usuário.
-
 <p align="center">
   <img src="./preview.png" width="180" alt="Preview" />
   <img src="./Preview2.png" width="180" alt="Preview 2" />
