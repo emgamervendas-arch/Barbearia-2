@@ -3,12 +3,10 @@
 Landing Page moderna para uma barbearia, desenvolvida com foco em design elegante, responsividade e experiência do usuário.
 
 <p align="center">
-  <img src="./Preview.png" width="180" alt="Preview 1" />
-  <img src="./Preview2.png" width="180" alt="Preview 2" />
-  <img src="./Preview3.png" width="180" alt="Preview 3" />
-  <img src="./Preview4.png" width="180" alt="Preview 4" />
-  <img src="./Preview5.png" width="180" alt="Preview 5" />
-## 📖 Sobre o projeto
+git mv PREVIEW2.png Preview2.png
+git mv PREVIEW3.png Preview3.png
+git mv PREVIEW4.png Preview4.png
+git mv PREVIEW5.png Preview5.png
 
 Este projeto foi criado para apresentar os serviços de uma barbearia de forma profissional, utilizando uma interface moderna e intuitiva.
 
