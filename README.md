@@ -7,7 +7,7 @@ Landing Page moderna para uma barbearia, desenvolvida com foco em design elegant
 Landing Page moderna para uma barbearia, desenvolvida com foco em design elegante, responsividade e experiência do usuário.
 
 <p align="center">
-  <img src="./Preview.png" width="180" alt="Preview 1" />
+  <img src="./Preview.png" width="180" alt="Preview" />
   <img src="./Preview2.png" width="180" alt="Preview 2" />
   <img src="./Preview3.png" width="180" alt="Preview 3" />
   <img src="./Preview4.png" width="180" alt="Preview 4" />
